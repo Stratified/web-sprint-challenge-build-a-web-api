@@ -1,0 +1,10 @@
+    The core features of Node.js and Express and why they are useful.
+They are used to create and update back end stuff. 
+    Understand and explain the use of Middleware?
+Middleware is used to perform functions between actions.
+    The basic principles of the REST architectural style.
+It's a smart and straightforward way of building your endpoints and communicating efficiently between your client and the server.
+    Understand and explain the use of Express Routers.
+Routing is how you create the endpoints for your server. You can break out your end points into different routers/files for better organization.
+    Describe tooling used to manually test the correctness of an API.
+Use a program to send requests to your endpoints.
